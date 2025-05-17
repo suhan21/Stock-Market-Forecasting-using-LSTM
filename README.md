@@ -1,1 +1,2 @@
 # Stock-Market-Forecasting-using-LSTM
+This project leverages Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN), to predict future stock prices based on historical data. By capturing temporal dependencies in stock market trends, the model aims to provide accurate forecasts for informed trading decisions. The dataset typically includes features such as Open, High, Low, Close prices, and the model is trained and evaluated to visualize its predictive performance.
